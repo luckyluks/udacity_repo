@@ -11,3 +11,4 @@
 - rebase
 - reset
 - merge
+- diff
